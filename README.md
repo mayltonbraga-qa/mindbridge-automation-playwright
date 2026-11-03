@@ -14,5 +14,5 @@ Automated test implementation, backend data validation, and executive quality re
 
 ## 📂 Repository Contents
 - [`/tests`](./tests/): Playwright automated test scripts (`account_update.spec.js`).
-- [`/database`](./database/): SQL validation queries used for pre-test data state auditing.
-- [`/reports`](./reports/): Executive QA status reports with pass/fail metrics and failure root-cause analysis.
+- [`/database`](./tests/database/): SQL validation queries used for pre-test data state auditing.
+- [`/reports`](./tests/reports/): Executive QA status reports with pass/fail metrics and failure root-cause analysis.
